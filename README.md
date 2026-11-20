@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 💻 Languages & Frameworks
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) |
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
+| **Backend** | ![NestJS](https://shields.io) |
+| **Build Tool** | ![Gradle](https://shields.io) |
